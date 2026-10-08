@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ZGVR0e98U7pFwOiwnyrsX7r_1MTmoEQm/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20PDF-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1Uv-JIKBhn6XgxGdXvDp59Z5u1EYZClO1/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-View%20PDF-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="https://youtu.be/svU86GMT2oY"><img src="https://img.shields.io/badge/Demo-Watch%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo video"/></a>
 </p>
 
